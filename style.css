@@ -1,0 +1,70 @@
+.main{
+      display: flex;
+      justify-content: space-between;
+}
+.row {
+        display: flex;
+        justify-content:space-between;
+        text-decoration: none;
+        padding: 1rem;
+}
+
+ nav a{
+     text-decoration: none;
+     color: black;
+     padding: 1rem;
+     font-size: 15px;
+     font-family: 'Times New Roman', Times, serif;
+ }
+ .newdiv a{
+      text-decoration: none;
+      padding: 1rem;
+      color: black;
+      font-size: 15px;
+      font-family: 'Times New Roman', Times, serif;
+ }
+ .left{
+      display: flex;
+      padding: 1rem;
+      margin: 0;
+ }
+.icon{
+      color: black;
+      font-size: 24px;
+
+}
+.images{
+      height: 100px;
+      width: 21%;
+      margin-top: 160px;
+      margin-left: 560px;
+}
+.btn{
+     display: flex;
+     justify-content: center;
+     padding: 1rem;
+     margin: 1rem;
+
+}
+button{
+      padding: 10px;
+      margin: 1rem;
+      border-color: black;
+}
+.search{
+      display: flex;
+      align-items: center;
+      border: 1px solid lightgray;
+      height: 30px;
+      padding: 10px 20px;
+      border-radius: 999px;
+      width: 35rem;
+      margin-top: 40px;
+      margin-left: 410px;
+}
+.textbox{
+      width: 50rem;
+      height: 2rem;
+      border-color: transparent;
+      outline: none;
+}
